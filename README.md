@@ -9,9 +9,8 @@ Legyen benne:
 - és egy kis **AI** — valamilyen szöveges probléma feldolgozása
   
 A beküldés elvárt formátuma egy **GITHUB LINK**, ahova felkerül a projekthez tartozó:
-* kód: **.py** vagy **Jupyter Notebook**formátumban (más nyelv esetén valamilyen natív formátum)
+* kód: **.py** vagy **Jupyter Notebook** formátumban (más nyelv esetén valamilyen natív formátum)
 * prezentáció: maximum **6 diás PDF** prezentáció formájában  
 
 
 ### Megjegyzés
-A **prezentációra** sajnos kevés időm maradt, így az nem tükrözi teljes mértékben a projekt mögött lévő munkát.
