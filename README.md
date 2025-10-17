@@ -11,6 +11,3 @@ Legyen benne:
 A beküldés elvárt formátuma egy **GITHUB LINK**, ahova felkerül a projekthez tartozó:
 * kód: **.py** vagy **Jupyter Notebook** formátumban (más nyelv esetén valamilyen natív formátum)
 * prezentáció: maximum **6 diás PDF** prezentáció formájában  
-
-
-### Megjegyzés
